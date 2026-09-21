@@ -1,5 +1,5 @@
 # deeplearningAI-agenticAi
-
+```mermaid
 mindmap
   root((Agentic AI))
     Module 1: Intro to Agentic Workflows
